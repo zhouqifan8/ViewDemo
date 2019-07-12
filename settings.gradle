@@ -1,0 +1,1 @@
+include ':app', ':kgcehua', ':qqslidingmenu', ':corelibrary', ':slidingmenu', ':loadingview', ':loadingview58', ':chenjinshi', ':library', ':myapplication'
